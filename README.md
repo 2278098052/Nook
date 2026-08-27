@@ -4,6 +4,8 @@ Nook 是一个轻量的 Windows 桌面事项管理器：它把 Codex 工作任�
 
 > 本仓库是 Nook 的用户发布页，仅提供 Windows 安装包、功能介绍和使用说明，不公开源代码。
 
+![Nook 操作界面](./assets/nook-dashboard.png)
+
 ## 下载与安装
 
 当前版本：`0.1.0`
@@ -94,7 +96,7 @@ Nook 是普通窗口，不会强制置顶。可以直接最小化、使用 `Alt+
 ## 校验信息
 
 安装包：`Nook-Setup-0.1.0.exe`  
-SHA-256：`5CA28B3F1F70EB85E3F23985E2C1442108EA3EF66F7833B9FED0CAD86FDAF517`
+SHA-256：`E8210B4C6A6DA4D01BD5FC87EEAF9CE746FAB18C91972D00CF4259FC0411FB93`
 
 ## 许可证
 
