@@ -37,6 +37,15 @@ Nook 支持 Windows 10/11（64 位），不需要安装 Python，也不需要执
 
 如果 Windows SmartScreen 第一次运行时显示提示，请确认安装包来自本仓库后选择“仍要运行”。
 
+## macOS 版本
+
+现在也提供 macOS 版本，解压后将 `Nook.app` 拖入“应用程序”即可：
+
+- [Apple Silicon（M 系列芯片）](./Nook-macOS-Apple-Silicon.zip)
+- [Intel 芯片](./Nook-macOS-Intel.zip)
+
+首次打开时，如果 macOS 提示应用来自互联网，请在“系统设置 → 隐私与安全性”中允许打开。Mac 版本同样只读取当前用户自己的 Nook 数据和本机 Codex 日志，不会上传任务记录。
+
 ## Nook 能做什么
 
 - 工作 / 个人两个模块，工作区域更适合集中管理较多任务。
