@@ -4,7 +4,19 @@ Nook 是一个轻量的 Windows 桌面事项管理器：它把 Codex 工作任�
 
 > 本仓库是 Nook 的用户发布页，仅提供 Windows 安装包、功能介绍和使用说明，不公开源代码。
 
-![Nook 操作界面](./assets/nook-dashboard.png)
+## 界面展示
+
+### 工作空间
+
+![Nook 工作空间](./assets/nook-workspace.png)
+
+### 任务进展
+
+![Nook 任务进展](./assets/nook-progress.png)
+
+### 新建事项
+
+![Nook 新建事项](./assets/nook-new-task.png)
 
 ## 下载与安装
 
